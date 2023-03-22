@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Python
-- 🌱 I’m currently learning Machine Learning
+- 🔭 I’m a Software Developer at Publicis Sapient
+- 🌱 I’m working on Java, SpringBoot & React
 - 👯 I’m looking to collaborate on Projects
 - 📫 How to reach me: vaishuas24@gmail.com
 
